@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% load static %}
+
+
+{% block content %}
+
+<div id="status"></div>
+
+<script src="{% static 'js/ud_status.js' %}"></script>
+
+<script>
+    var status = new UdStatus({
+       'containerId': 'status'
+    });
+</script>
+{% endblock %}

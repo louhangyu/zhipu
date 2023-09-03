@@ -1,0 +1,13 @@
+[Unit]
+Description=Supervisord RMS Service
+After=network.target
+
+[Service]
+Type=simple
+User=nginx
+ExecStart=/data/webapp/rms/appserver/confs/pro/supervisord-rms.sh start
+Restart=on-abort
+
+
+[Install]
+WantedBy=multi-user.target

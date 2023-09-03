@@ -1,0 +1,21 @@
+name: dj32
+dependencies:
+  - pandas
+  #- mysqlclient
+  - python-memcached
+  - spacy
+  - requests
+  - pymongo
+  - django=3.2.5
+  #- redis
+  - gunicorn
+  - greenlet
+  - eventlet
+  - gevent
+  - supervisor
+  - uvicorn[standard]
+  - django-rq
+  - scikit-learn
+  #- pyssdb
+
+

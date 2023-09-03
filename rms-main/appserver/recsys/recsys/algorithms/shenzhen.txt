@@ -1,0 +1,626 @@
+Manufacturing Execution System
+Advanced Planning
+Scheduling
+Machining Center
+Manufacturing Data Collection & Status Management
+Mass Customization
+Supervisory Control
+Data Acquisition
+SCADA
+Distributed Control System
+Flexible Manufacturing
+Production Paperless
+Production monitoring
+visualization
+Production process traceability
+Manufacturing process analysis
+optimization
+Production process optimization
+Advanced Process Control
+Process Control System
+Statistical Process Control
+Digital Process Planning
+Production Line Planning
+Design
+Production Line Simulation Verification
+Overall Equipment Effectiveness
+Equipment failure prediction
+Manufacturing execution system
+Manufacturing operation management system
+Personalized customization
+Mass customization
+Predictive Maintenance
+Picking
+Fieldbus
+Industrial safety
+Enterprise portal
+Enterprise management
+Enterprise business management
+Project Management
+Business Process Reengineering
+Business Process Management
+Human Capital Management
+Knowledge Management
+Business Intelligence
+Enterprise Performance Management
+Supply Chain Management
+Customer Relationship Management
+CRM
+Production planning
+Implementation
+Lean Production
+Lean Manufacturing
+Lean Management
+Production Planning System
+Quality Management System
+QMS
+Total Quality Management
+TQM
+Enterprise Resource Planning
+ERP
+Enterprise Asset Management
+EAM
+Device Management
+Prognosticsand Health Management
+Energy Management System
+Labor management
+Laboratory Information Management System
+LIMS
+Total Productive Maintenance
+Master Data Management
+MDM
+Operation optimization)
+(Numerical Control System
+Digital control system
+Computer Numerical Control System
+Distributed Numerical Control
+Programmable Logic Controller
+PLC
+Configuration software
+Configuration monitoring system software
+Rapid prototyping
+Rapid prototyping
+Rapid manufacturing
+Digital prototype
+Topology Optimization
+Optimal design
+Green Design
+Reusable design
+Genrative Design
+Design for Manufacturing
+Concurrent Engineering
+Intelligent service
+Remote monitoring
+Remote operation
+maintenance
+Simulation
+Virtual Reality
+VR
+Augmented Reality
+AR
+Mixed Reality
+Cloud computing
+Edge Computing
+Cloud edge collaboration
+Data collection
+Machine big data
+Map-Reduce
+Hadoop
+Sensor
+Information integration
+Artificial Intelligence
+AI
+Machine learning
+Deep learning
+Machine Vision
+Computer Vision
+Image recognition technology
+Natural Language Processing
+NLP
+Knowledge map
+Intelligent management
+Blockchain
+Distributed Ledger Technology
+Consensus mechanism
+Smart contract
+Data
+information acquisition
+Swarm intelligence
+Internet of things
+IOT
+Narrow Band Internet of Things
+NB-IoT
+Computer integrated manufacturing system
+CIMS
+Time Sensitive Network
+Unified Architecture
+Unified architecture
+Distributed Control System
+Computer Aided Manufacturing
+Computer Aided Design
+CAD
+Computer Aided Process Planning
+Computer Aided Engineering
+Fieldbus Control System
+Collaborative office
+Enterprise collaboration))
+Intelligent production
+Intelligent workshop
+Intelligent factory
+Intelligent production
+Intelligent workshop
+Intelligent workshop
+Intelligent factory
+Intelligent chemical plant
+Intelligent production line
+Intelligent manufacturing production line
+Intelligent equipment
+Intelligent machine tool
+Intelligent NC
+Additive Manufacturing
+Robot arm
+Cooperative robot
+3D printing
+NC milling machine
+NC machine tool
+Factory planning
+simulation
+Electronic Design Automation
+Equipment interconnection
+Three Dimension Printing
+Intelligent design
+Intelligent process
+Intelligent manufacturing system framework
+Intelligent quality inspection
+Intelligent assembly
+Intelligent process design
+Detection
+Fault diagnosis
+Virtual manufacturing
+Networked collaborative manufacturing
+Modeling
+simulation
+Intelligent control
+optimization of manufacturing process
+Cutting intelligent database
+NC machining automatic programming
+Intelligent inspection
+Intelligent operation
+maintenance
+Industrial control system
+Industrial Internet
+Industrial big data
+Industrial cloud
+Industrial E-commerce
+Industrial Platform as a Service
+Industrial PAAS
+Industrial Infrastructure as a Service
+Industrial IAAs
+Industrial SaaS
+Industrial Software as a Service
+Industrial software
+Industrial APP
+Industrial Application
+Digital supply chain
+Supply chain collaboration
+Supply chain visualization
+Intelligent supply chain
+Intelligent supply chain
+Warehouse Management System
+Transport management system
+Digital Picking System
+Warehousing Logistics Systems
+Intelligent picking
+PDA picking
+Personal Digital Assistant Picking
+RFID picking
+Radio Frequency Identification picking
+Pick-by-Voice
+Pick to Light
+Pick-by-Vision
+AS
+RS
+Automated warehouse
+AGV picking
+AGV
+Automated Guided Vehicle
+Intelligent logistics
+Intelligent logistics
+Logistics automation
+Automated three-dimensional warehouse
+Suspended conveyor chain
+Intelligent hanging system
+Intelligent sorting system
+Stacking robot
+Stacking robot
+Intelligent fixture
+Unmanned forklift
+Rail Guided Vehicle
+RGV
+Autonomous Mobile Robot
+Mobile picking robot
+Automatic track system
+Intelligent scheduling
+Intelligent manufacturing scheduling control
+Automatic equipment
+Intelligent cutting blade
+High-end CNC machine tool
+Industrial robot
+Flexible production line
+Flexible manufacturing unit
+Flexible Manufacturing System
+Computer aided process planning
+Intelligent cutting
+Green manufacturing
+Future manufacturing
+Advanced manufacturing
+Industry 4.0
+Industry 5.0
+Industrial automation
+Manufacturing intelligent technology
+Industrial intelligence
+Manufacturing intelligent
+Industrial wireless
+Industrial wireless technology
+Model Based Definition
+Model Based Enterprise
+Product Lifecycle Management
+Product Data Management
+Industrial Internet of things
+Factory intranet
+Industrial Ethernet
+Passive Optical Network
+Wireless Networks for Industrial Automation Process Automation
+Wireless Network for Industrial Automation – Factory Automation
+Digital Twin
+Cyber-Physical Systems
+Industrial information security
+Industrial control system security
+Industrial Internet security
+Industrial big data security
+Industrial cloud security
+Industrial e-commerce security
+Key information infrastructure security
+Manufacturing intelligent technology
+Industrial intelligence
+Manufacturing intelligence
+Digital design
+intelligent CNC system
+intelligent machine tool
+intelligent production control
+automated flexible workshop
+intelligent control
+intelligent construction machinery
+multi-axis linkage
+multi-channel control technology
+high-speed
+high-precision control technology
+sensors
+digital clue technology
+cyber-physical production system technology and intelligent artificial enhancement system technology
+key technology of launch vehicle manufacturing
+key technology of spacecraft manufacturing
+key technology of satellite manufacturing
+key technology of aerospace liquid engine manufacturing
+key technology of commercial aircraft manufacturing
+Key technologies of commercial aircraft engine manufacturing
+aerospace metal forming technology
+sheet metal forming technology
+casting technology
+heat treatment technology
+precision ultra-precision machining technology
+precision ultra-precision machining
+CNC machining
+special machining technology
+electrical machining
+additive manufacturing
+surface engineering technology
+film preparation
+ion implantation
+composite material forming technology
+joining technology
+welding
+riveting
+butt assembly technology
+non-destructive testing technology
+aerospace intelligent manufacturing technology
+smart grid (smart power generation
+smart power transmission
+smart power distribution
+smart substation
+power distribution data communication network
+sensor measurement technology
+optical or electronic transformers
+overhead line and cable temperature measurement
+power equipment status online monitoring
+power quality measurement
+protection control technology
+advanced distribution automation
+DER grid-connected technology
+fault current limiting technology
+flexible DC technology
+virtual synchronous machine technology
+unified power flow controller
+half-wavelength technology
+industrial robots
+service robots
+flexible materials
+functional materials
+new driving materials
+new energy battery technology
+intelligent materials
+voice interaction technology
+body interaction technology
+environmental perception and interaction technology
+interactive security technology
+virtual reality technology
+Human-computer interaction and collaborative control
+behavior recognition technology
+face recognition
+emotion recognition
+object recognition
+drive controller
+reducer
+manipulator
+bionic machine design technology
+transmission technology
+lightweight
+perception and interaction technology
+multi-sensing Information fusion technology
+bionic perception
+intelligent drive technology
+multi-robot collaborative technology
+motion planning and collaborative design
+navigation and positioning technology
+flexible operation and control
+vehicle smart terminals
+smart TVs
+smart phones
+digital conference desktop smart terminals
+smart home equipment
+wearable smart devices
+tablet computers
+cloud services
+Brain-inspired Computing
+Brain-inspired artificial intelligence
+Brain-inspired neural network
+Computational neuroscience
+brain chip
+Neuromorphic chip
+Neuromorphic Computing
+Neural computing
+Cognitive computing algorithm
+Spiking Neural Networks
+Spiking deep learning
+Brain-inspired robot
+Brain-inspired information processing, multimodal perception
+Brain-inspired autonomous decision-making
+Brain-inspired Computing
+Neuromorphic morphology
+Artificial Neural Network
+Spiking NeuralNetwork
+Deep Neural Network
+Restricted Boltzmann machine
+Deep Belief Network
+Multi-Layer Perceptron
+Convolutional Neural Network
+Long Short-Term Memory
+Generative Adversarial Network
+Backpropagation
+Neural Architecture Search
+Spike Timing Dependent Plasticity
+Rectified Linear Unit
+Field Programmable Gate Array
+Resistive Random-Access Memory
+Analog-to-Digital Converter
+Digital-to-Analog Converter
+obot and additive equipment manufacturing
+major complete equipment manufacturing
+intelligent measurement and control equipment manufacturing
+other intelligent equipment manufacturing
+intelligent key basic components manufacturing
+intelligent manufacturing related services
+industrial robot manufacturing
+special operation robot manufacturing
+additive manufacturing equipment Manufacturing
+manufacturing of service consumption robots
+manufacturing of mining machinery
+manufacturing of special equipment for oil drilling and production
+manufacturing of deep-sea oil drilling equipment
+manufacturing of special machinery for building materials production
+manufacturing of special equipment for metallurgy
+Manufacturing of special equipment for plastic processing
+manufacturing of wood and bamboo processing machinery
+manufacturing of special equipment for food, wine, beverage and tea production
+manufacturing of special printing equipment
+manufacturing of special textile equipment
+manufacturing of other special electronic equipment
+Machine tool manufacturing
+metal forming machine tool manufacturing
+casting machinery manufacturing
+metal cutting and welding equipment manufacturing
+machine tool functional parts and accessories manufacturing
+other metal processing machinery manufacturing
+industrial automatic control system equipment manufacturing
+Manufacturing of instruments and meters
+manufacturing of other general-purpose instruments
+manufacturing of other special-purpose instruments
+metal surface treatment and heat treatment processing
+manufacturing of other unspecified metal products
+manufacturing of special-purpose cranes for production
+manufacturing of special-purpose vehicles for production
+continuous handling equipment manufacturing
+other material handling equipment manufacturing
+Manufacture of special equipment for food, wine, beverage and tea production
+Manufacture of special equipment for agricultural and sideline food processing
+Manufacture of mechanized agricultural and horticultural machinery
+Manufacturing of components
+manufacturing of pneumatic power machinery and components
+manufacturing of rolling bearings
+manufacturing of gears and gear reductions and gearboxes
+machining of mechanical parts
+manufacturing of other general-purpose components
+manufacturing of other general equipment not specified
+manufacturing of micro-motors and components
+transformers , rectifier and inductor manufacturing
+aircraft equipment manufacturing
+aircraft manufacturing
+other aerospace vehicle manufacturing
+aviation-related equipment manufacturing
+electric motor manufacturing
+communication system equipment manufacturing
+communication terminal equipment manufacturing
+satellite equipment manufacturing
+satellite application technology equipment manufacturing
+satellite application services
+other spacecraft and launch vehicle manufacturing
+spacecraft and launch vehicle manufacturing
+aerospace-related equipment manufacturing
+communication system equipment manufacturing
+intelligent vehicle equipment manufacturing
+navigation, Manufacturing of special instruments for surveying and mapping, meteorology and oceanography
+radio and television satellite transmission services
+other satellite transmission services
+information system integration services
+information processing and storage support services
+geographic remote sensing information services
+remote sensing surveying and mapping services
+spacecraft and launch vehicle manufacturing
+aerospace-related equipment manufacturing
+manufacturing of high-end railway equipment
+manufacturing of urban rail equipment
+manufacturing of other rail transit equipment
+related services of rail transit
+manufacturing of high-speed trains
+manufacturing of railway rolling stock
+manufacturing of high-speed rail equipment and accessories
+manufacturing of railway special equipment and equipment and accessories
+Manufacture of urban rail transit equipment
+Manufacture of internal combustion engine and accessories
+Manufacture of gears and gear reducers and gearboxes
+Manufacture of railway special equipment and equipment, accessories
+Manufacture of generators and generator sets
+Manufacture of transformers, rectifiers and inductors
+Manufacture of electrical signal equipment
+other not specified electrical machinery and equipment manufacturing
+manufacturing of deep-sea oil drilling equipment
+manufacturing of other marine related equipment and products
+manufacturing of marine environment monitoring and detection equipment
+manufacturing of metal cutting and welding equipment
+manufacturing of marine engineering equipment
+manufacturing of deep-sea oil drilling equipment
+coating manufacturing
+agricultural sideline products Manufacturing of special equipment for food processing
+manufacturing of fishing machinery
+manufacturing of special equipment for geological exploration
+manufacturing of diving equipment
+manufacturing of underwater salvage equipment
+manufacturing of generators and generator sets
+manufacturing of power electronic components
+Manufacturing of radar and supporting equipment
+manufacturing of special instruments and meters for environmental monitoring
+manufacturing of special instruments for navigation, surveying and mapping, meteorology and oceanography
+advanced materials
+new materials
+new chemical materials
+material technology
+materials genomics
+materials simulation
+sustainable materials
+complex materials
+combinatorial materials
+nano materials
+energy storage materials
+electronic information material
+materials for information technology
+biomedical materials
+aviation materials
+smart materials
+3D printing materials
+additive manufacturing
+rare-earth materials
+rare-earth functional materials
+magnetic materials
+semiconductor materials
+optical materials
+superconductor materials
+structure materials
+high-performance membrane
+membrane materials
+advanced construction materials
+biomimetic materials
+metamaterials
+advanced inorganic materials
+metal-organic frameworks
+graphene
+carbon fiber
+functional polymer
+functional ceramics
+functional textiles
+advanced steels
+non-ferrous materials
+special alloy
+special rubber
+special engineering plastic
+liquid metal
+high-performance fiber
+silicon material
+sputtering targets alloy
+bio-based polymer
+fiber composites
+memory alloy
+superhard materials
+superalloy materials
+high pure material
+Block chain
+Intelligent contract
+Consensus mechanism
+Digital virtual currency
+Cross-Chain
+sharding
+Secure Multi-party Computation
+The federal study
+Side chain technology
+consensus algorithm
+Cold/hot digital wallet
+distributed ledger
+cryptography
+digital signature
+Public/ Private Key Cryptography
+hash function
+Merkle Tree
+asymmetric cryptographic algorithm
+P2P
+BTC
+ETH
+CBDC
+pow
+pos
+PBFT
+ipfs
+DAO
+Defi
+Layer2
+zero-knowledge proof
+Directed Acyclic Graph
+TEE
+"Diagnostic reagent"
+"biochemical diagnostic reagent"
+"molecular diagnostic reagent"
+"immunodiagnostic reagent"
+"microbial diagnostic reagent"
+Aerospace Technology
+Aviation Technology
+Space Technology
+Intelligent Technology
+Airplane
+Drone
+Hypersonic
+Satellite
+Detector
+Spaceship
+Rocket
+lunar exploration
+Aerospace Robot
+Aerospace Intelligence
+hydrogen energy

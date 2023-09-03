@@ -1,0 +1,7 @@
+
+body {
+	word-break: break-all; /*支持IE，chrome，FF不支持*/
+    word-wrap: break-word;/*支持IE，chrome，FF*/
+    font: PingFangSC-Regular,Microsoft YaHei;
+    font-display: optional;
+}

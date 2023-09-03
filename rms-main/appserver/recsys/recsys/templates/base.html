@@ -1,0 +1,101 @@
+{% load static %}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    {% block title %}
+    <title>
+        {% if title %}
+        {{ title }} - {{settings.APP_NAME}}
+        {% else %}
+        {{ settings.APP_NAME }}-{{ settings.APP_DESCRIPTION }}
+        {% endif %}
+    </title>
+    {% endblock %}
+
+    {% block seo_keywords %}{% endblock%}
+
+    {% block seo_description %}{% endblock %}
+
+    <link rel="shortcut icon" href="{% static 'img/favicon.ico' %}" mce_href="{% static 'img/favicon.ico' %}" type=”image/x-icon”>
+    {% block jquery %}
+    <script src="{% static 'js/jquery-3.4.1.min.js' %}"></script>
+    {% endblock %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="{% static 'bootstrap-4.3.1/css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'common.css' %}" rel="stylesheet">
+    <script src="{% static 'bootstrap-4.3.1/js/bootstrap.bundle.min.js' %}"></script>
+    <!-- end responsive design -->
+
+    {% block extra_js %}{% endblock %}
+</head>
+
+
+<body data-spy="scroll">
+{% block body %}
+
+{% block nav %}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/">
+        {{ settings.APP_NAME }}
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'status_page'%}">效果</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{% url 'ud_status_page'%}">UD轨迹</a>
+            </li>
+        </ul>
+        {% if request.user.is_authenticated %}
+        <form class="navbar-item">
+            <a class="btn btn-default" href="{% url 'admin:index'%}">{{request.user.username}}</a>
+            <a class="btn btn-default" href="{% url 'admin:logout'%}">退出</a>
+        </form>
+        {% else %}
+        <form class="form-inline">
+            <a class="btn btn-default" href="{% url 'admin:login'%}">登陆</a>
+        </form>
+        {% endif %}
+
+        <span class="navbar-text"></span>
+    </div>
+</nav>
+{% endblock %}
+
+{% block container %}
+
+{% block container-style %}
+<div class="container-xl" style="padding: 5px;">
+    {% endblock %}
+
+    {% if messages %}
+    {% for message in messages %}
+    <div class="{{message.tags}}" role="alert">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        {{message|safe}}
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    {% block content %}{% endblock %}
+
+</div>
+{% endblock %}
+
+
+{% endblock %}
+</body>
+
+
+</html>
